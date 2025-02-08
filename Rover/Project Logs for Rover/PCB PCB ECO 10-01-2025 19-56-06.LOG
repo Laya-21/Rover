@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=LPWM_1 Pin=ESP-32-8
+Removed Pin From Net: NetName=RPWM_1 Pin=ESP-32-9
+Removed Pin From Net: NetName=LPWM_2 Pin=ESP-32-10
+Removed Pin From Net: NetName=RPWM_2 Pin=ESP-32-11
+Removed Pin From Net: NetName=LPWM_3 Pin=ESP-32-12
+Removed Pin From Net: NetName=RPWM_3 Pin=ESP-32-13
+Added Pin To Net: NetName=RPWM_1 Pin=ESP-32-8
+Added Pin To Net: NetName=LPWM_1 Pin=ESP-32-9
+Added Pin To Net: NetName=RPWM_2 Pin=ESP-32-10
+Added Pin To Net: NetName=LPWM_2 Pin=ESP-32-11
+Added Pin To Net: NetName=RPWM_3 Pin=ESP-32-12
+Added Pin To Net: NetName=LPWM_3 Pin=ESP-32-13
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_1 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_2 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_3 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_4 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_5 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component BTS_6 61201021621
+Added Member To Class: ClassName=Schemtaic Member=Component ESP-32 ESP32-DEVKITC
+Added Member To Class: ClassName=Schemtaic Member=Component Power_Supply 691311700102

@@ -84,5 +84,5 @@ Useful for smart farming applications like irrigation or crop monitoring.
 
 
 ## DEMO
-![Line Following](Media/gif_1.gif)
+![Line Following](gif_1.gif)
 

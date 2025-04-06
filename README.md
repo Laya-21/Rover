@@ -84,4 +84,4 @@ Useful for smart farming applications like irrigation or crop monitoring.
 
 
 ## DEMO
-![Rover Demo](https://s2.ezgif.com/tmp/ezgif-27ae4731bf59bf.gif)
+![Rover Demo](https://drive.google.com/file/d/1n5L11jHy6F6WYS101IgjqXJGg8pqy89E/view)

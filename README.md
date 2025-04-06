@@ -47,7 +47,7 @@ The **Printed Circuit Board (PCB)** is designed to efficiently route power and s
    - Includes connections for: ESP32, BTS079 motor driver, power regulators, and protection circuitry  
    - Designed for stability, expandability, and ease of debugging
 
-   ![Schematic](https://i.imgur.com/nxyd6CQ.jpeg)
+   ![Schematic](https://i.postimg.cc/jqfp0c6K/img-1.jpg)
 
 
 2. **PCB Layout**  
